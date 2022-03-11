@@ -1,0 +1,19 @@
+applab {
+    width: 20%;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    width: 30%;
+}
+
+#apps {
+    background: linear-gradient(to bottom right, #7dd9e9 0%, #86e6b1 100%);
+}
+
+h1 {
+    font-size: 40px;
+}
